@@ -1,1 +1,2 @@
-# Elastic-Search-CRUD
+# ElasticSearch-CRUD
+Implemented CRUD operations with ElasticSearch
